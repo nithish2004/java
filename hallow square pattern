@@ -1,4 +1,3 @@
-file:///home/ooad/Pictures/outputs/Screenshot%20from%202023-01-24%2013-25-59.png
 import java.util.Scanner;
 public class hallowsquare
 {
@@ -20,3 +19,14 @@ System.out.println();
 }
 }
 }
+
+output:
+ooad@ooad-Lenovo-S510:~$ cd Desktop
+ooad@ooad-Lenovo-S510:~/Desktop$ javac hallowsquare.java
+ooad@ooad-Lenovo-S510:~/Desktop$ java hallowsquare
+#
+# # # # # 
+#    # 
+#    # 
+#    # 
+# # # # # 
